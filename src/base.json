@@ -1,0 +1,424 @@
+{
+    "token": {
+        "grids": {
+            "tablet": {
+                "count": {
+                    "value": 12,
+                    "type": "grids"
+                },
+                "gutter": {
+                    "value": "32px",
+                    "type": "grids"
+                },
+                "offset": {
+                    "value": "0px",
+                    "type": "grids"
+                },
+                "width": {
+                    "value": "1024px",
+                    "type": "grids"
+                }
+            },
+            "desktop": {
+                "count": {
+                    "value": 12,
+                    "type": "grids"
+                },
+                "gutter": {
+                    "value": "32px",
+                    "type": "grids"
+                },
+                "offset": {
+                    "value": "0px",
+                    "type": "grids"
+                },
+                "width": {
+                    "value": "1200px",
+                    "type": "grids"
+                }
+            }
+        },
+        "spacers": {
+            "XXL": {
+                "value": "104px",
+                "type": "spacers"
+            },
+            "XL": {
+                "value": "96px",
+                "type": "spacers"
+            },
+            "L": {
+                "value": "88px",
+                "type": "spacers"
+            },
+            "M": {
+                "value": "40px",
+                "type": "spacers"
+            },
+            "S": {
+                "value": "32px",
+                "type": "spacers"
+            },
+            "XS": {
+                "value": "24px",
+                "type": "spacers"
+            },
+            "XXS": {
+                "value": "16px",
+                "type": "spacers"
+            }
+        },
+        "colors": {
+            "black": {
+                "value": "rgba(0, 0, 0, 1)",
+                "type": "color"
+            },
+            "charcoal": {
+                "value": "rgba(79.05000060796738, 79.05000060796738, 79.05000060796738, 1)",
+                "type": "color"
+            },
+            "ash": {
+                "value": "rgba(115.00000074505806, 115.00000074505806, 115.00000074505806, 1)",
+                "type": "color"
+            },
+            "silver": {
+                "value": "rgba(196.00000351667404, 196.00000351667404, 196.00000351667404, 1)",
+                "type": "color"
+            },
+            "grey": {
+                "value": "rgba(235.0000011920929, 235.0000011920929, 235.0000011920929, 1)",
+                "type": "color"
+            },
+            "cream": {
+                "value": "rgba(253.0000001192093, 253.0000001192093, 253.0000001192093, 1)",
+                "type": "color"
+            },
+            "white": {
+                "value": "rgba(255, 255, 255, 1)",
+                "type": "color"
+            },
+            "primary": {
+                "value": "rgba(214.19999331235886, 80.14482825994492, 42.123004496097565, 1)",
+                "type": "color"
+            },
+            "secondary": {
+                "value": "rgba(13.00499975681305, 177.9941377043724, 216.75000607967377, 1)",
+                "type": "color"
+            },
+            "tertiary": {
+                "value": "rgba(220.00000208616257, 179.000004529953, 47.0000009983778, 1)",
+                "type": "color"
+            }
+        },
+        "fonts": {
+            "caption": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "16px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "96%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "desktop-p": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "16px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "128%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "body-desktop": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "18px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "100%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h4-desktop": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "24px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "100%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h4-mobile": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "22px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h3-desktop": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "35px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "104.83809661865234%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h3-tablet": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "31px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h3-mobile": {
+                "family": {
+                    "value": "Mukta, Mukta-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "27px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h2-desktop": {
+                "family": {
+                    "value": "Mukta, Mukta-SemiBold",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "48px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 600,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "104.8888931274414%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h2-tablet": {
+                "family": {
+                    "value": "Mukta, Mukta-SemiBold",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "40px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 600,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h2-mobile": {
+                "family": {
+                    "value": "Mukta, Mukta-SemiBold",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "32px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 600,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h1-desktop": {
+                "family": {
+                    "value": "Mukta, Mukta-Bold",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "56px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 700,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h1-tablet": {
+                "family": {
+                    "value": "Mukta, Mukta-Bold",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "48px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 700,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "h1-mobile": {
+                "family": {
+                    "value": "Mukta, Mukta-Bold",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": "40px",
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 700,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "85.33333587646484%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            }
+        }
+    }
+}

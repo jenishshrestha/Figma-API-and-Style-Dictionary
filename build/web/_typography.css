@@ -1,0 +1,77 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 12 May 2020 14:30:48 GMT
+ */
+
+:root {
+ --token-fonts-caption-family: Mukta, Mukta-Regular;
+ --token-fonts-caption-size: 16px;
+ --token-fonts-caption-weight: 400;
+ --token-fonts-caption-lineheight: 96%;
+ --token-fonts-caption-spacing: normal;
+ --token-fonts-desktop-p-family: Mukta, Mukta-Regular;
+ --token-fonts-desktop-p-size: 16px;
+ --token-fonts-desktop-p-weight: 400;
+ --token-fonts-desktop-p-lineheight: 128%;
+ --token-fonts-desktop-p-spacing: normal;
+ --token-fonts-body-desktop-family: Mukta, Mukta-Regular;
+ --token-fonts-body-desktop-size: 18px;
+ --token-fonts-body-desktop-weight: 400;
+ --token-fonts-body-desktop-lineheight: 100%;
+ --token-fonts-body-desktop-spacing: normal;
+ --token-fonts-h-4-desktop-family: Mukta, Mukta-Regular;
+ --token-fonts-h-4-desktop-size: 24px;
+ --token-fonts-h-4-desktop-weight: 400;
+ --token-fonts-h-4-desktop-lineheight: 100%;
+ --token-fonts-h-4-desktop-spacing: normal;
+ --token-fonts-h-4-mobile-family: Mukta, Mukta-Regular;
+ --token-fonts-h-4-mobile-size: 22px;
+ --token-fonts-h-4-mobile-weight: 400;
+ --token-fonts-h-4-mobile-lineheight: 85.33333587646484%;
+ --token-fonts-h-4-mobile-spacing: normal;
+ --token-fonts-h-3-desktop-family: Mukta, Mukta-Regular;
+ --token-fonts-h-3-desktop-size: 35px;
+ --token-fonts-h-3-desktop-weight: 400;
+ --token-fonts-h-3-desktop-lineheight: 104.83809661865234%;
+ --token-fonts-h-3-desktop-spacing: normal;
+ --token-fonts-h-3-tablet-family: Mukta, Mukta-Regular;
+ --token-fonts-h-3-tablet-size: 31px;
+ --token-fonts-h-3-tablet-weight: 400;
+ --token-fonts-h-3-tablet-lineheight: 85.33333587646484%;
+ --token-fonts-h-3-tablet-spacing: normal;
+ --token-fonts-h-3-mobile-family: Mukta, Mukta-Regular;
+ --token-fonts-h-3-mobile-size: 27px;
+ --token-fonts-h-3-mobile-weight: 400;
+ --token-fonts-h-3-mobile-lineheight: 85.33333587646484%;
+ --token-fonts-h-3-mobile-spacing: normal;
+ --token-fonts-h-2-desktop-family: Mukta, Mukta-SemiBold;
+ --token-fonts-h-2-desktop-size: 48px;
+ --token-fonts-h-2-desktop-weight: 600;
+ --token-fonts-h-2-desktop-lineheight: 104.8888931274414%;
+ --token-fonts-h-2-desktop-spacing: normal;
+ --token-fonts-h-2-tablet-family: Mukta, Mukta-SemiBold;
+ --token-fonts-h-2-tablet-size: 40px;
+ --token-fonts-h-2-tablet-weight: 600;
+ --token-fonts-h-2-tablet-lineheight: 85.33333587646484%;
+ --token-fonts-h-2-tablet-spacing: normal;
+ --token-fonts-h-2-mobile-family: Mukta, Mukta-SemiBold;
+ --token-fonts-h-2-mobile-size: 32px;
+ --token-fonts-h-2-mobile-weight: 600;
+ --token-fonts-h-2-mobile-lineheight: 85.33333587646484%;
+ --token-fonts-h-2-mobile-spacing: normal;
+ --token-fonts-h-1-desktop-family: Mukta, Mukta-Bold;
+ --token-fonts-h-1-desktop-size: 56px;
+ --token-fonts-h-1-desktop-weight: 700;
+ --token-fonts-h-1-desktop-lineheight: 85.33333587646484%;
+ --token-fonts-h-1-desktop-spacing: normal;
+ --token-fonts-h-1-tablet-family: Mukta, Mukta-Bold;
+ --token-fonts-h-1-tablet-size: 48px;
+ --token-fonts-h-1-tablet-weight: 700;
+ --token-fonts-h-1-tablet-lineheight: 85.33333587646484%;
+ --token-fonts-h-1-tablet-spacing: normal;
+ --token-fonts-h-1-mobile-family: Mukta, Mukta-Bold;
+ --token-fonts-h-1-mobile-size: 40px;
+ --token-fonts-h-1-mobile-weight: 700;
+ --token-fonts-h-1-mobile-lineheight: 85.33333587646484%;
+ --token-fonts-h-1-mobile-spacing: normal;
+}
