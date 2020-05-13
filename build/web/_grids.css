@@ -1,0 +1,15 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 12 May 2020 14:30:48 GMT
+ */
+
+:root {
+ --token-grids-tablet-count: 12;
+ --token-grids-tablet-gutter: 32px;
+ --token-grids-tablet-offset: 0px;
+ --token-grids-tablet-width: 1024px;
+ --token-grids-desktop-count: 12;
+ --token-grids-desktop-gutter: 32px;
+ --token-grids-desktop-offset: 0px;
+ --token-grids-desktop-width: 1200px;
+}

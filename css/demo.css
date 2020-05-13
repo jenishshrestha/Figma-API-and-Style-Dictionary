@@ -1,0 +1,135 @@
+body {
+    background: #212121;
+    font-family: var(--token-fonts-body-desktop-family);
+    color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: var(--token-grids-desktop-width);
+    margin: 0 auto;
+}
+
+.wrapper {
+    padding: 0 0 80px;
+}
+
+/* Colors */
+.colors {
+    grid-column: 1/13;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: var(--token-grids-desktop-gutter);
+    grid-row-gap: var(--token-grids-desktop-gutter);
+    align-self: center;
+}
+
+.colors>div {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colors>div span {
+    color: white;
+    mix-blend-mode: difference;
+}
+
+.colors>div.black {
+    background-color: var(--token-colors-black);
+}
+
+.colors>div.charcoal {
+    background-color: var(--token-colors-charcoal);
+}
+
+.colors>div.ash {
+    background-color: var(--token-colors-ash);
+}
+
+.colors>div.silver {
+    background-color: var(--token-colors-silver);
+}
+
+.colors>div.grey {
+    background-color: var(--token-colors-grey);
+}
+
+.colors>div.cream {
+    background-color: var(--token-colors-cream);
+}
+
+.colors>div.white {
+    background-color: var(--token-colors-white);
+}
+
+.colors>div.primary {
+    background-color: var(--token-colors-primary);
+}
+
+.colors>div.secondary {
+    background-color: var(--token-colors-secondary);
+}
+
+.colors>div.tertiary {
+    background-color: var(--token-colors-tertiary);
+}
+
+/* Typography */
+.text-center {
+    text-align: center;
+}
+
+.section-title {
+    margin: 0 0 var(--token-spacers-s);
+}
+
+.typography {
+    grid-column: 1/13;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+    align-items: center;
+}
+
+p {
+    font-size: var(--token-fonts-desktop-p-size);
+    font-weight: var(--token-fonts-desktop-p-weight);
+    line-height: var(--token-fonts-desktop-p-lineheight);
+}
+
+h1 {
+    font-size: var(--token-fonts-h-1-desktop-size);
+    line-height: var(--token-fonts-h-1-desktop-lineheight);
+}
+
+h2 {
+    font-size: var(--token-fonts-h-2-desktop-size);
+    line-height: var(--token-fonts-h-2-desktop-lineheight);
+}
+
+h3 {
+    font-size: var(--token-fonts-h-3-desktop-size);
+    line-height: var(--token-fonts-h-3-desktop-lineheight);
+}
+
+h4 {
+    font-size: var(--token-fonts-h-4-desktop-size);
+    line-height: var(--token-fonts-h-4-desktop-lineheight);
+}
+
+h5 {
+    font-size: var(--token-fonts-h-5-desktop-size);
+    line-height: var(--token-fonts-h-5-desktop-lineheight);
+}
+
+h6 {
+    font-size: var(--token-fonts-h-6-desktop-size);
+    line-height: var(--token-fonts-h-6-desktop-lineheight);
+}
