@@ -1,13 +1,12 @@
 {
-    "name": "style-dictionary",
+    "name": "figma-api-and-style-dictionary",
     "version": "1.0.0",
     "main": "build.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "build": "node ./build.js"
     },
-    "author": "Pavel Laptev",
-    "license": "MIT",
+    "author": "Jenish Shrestha",
     "devDependencies": {
         "style-dictionary": "^2.6.2"
     }
